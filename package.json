@@ -1,0 +1,31 @@
+{
+  "name": "rn-portal",
+  "version": "1.0.0",
+  "description": "react-native-portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WDies/rn-portal.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-native-portal",
+    "rn-portal"
+  ],
+  "author": "WD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WDies/rn-portal/issues"
+  },
+  "homepage": "https://github.com/WDies/rn-portal#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-fix-all": "^1.0.1"
+  }
+}
